@@ -107,15 +107,15 @@ MSBench 按时间顺序回放多会话对话。在每个检查点，两道问题
 
 ## 引用
 
-如在研究中使用 MSBench 或 MSR，可暂用以下引用。核实官方书目记录后，我们会更新此条目。
+如在研究中使用 MSBench 或 MSR，请使用下方的 OpenReview BibTeX 引用论文。
 
 ```bibtex
 @inproceedings{zhou2026know,
   title     = {Know Where You Stand: Memory-Source Choice in Long-Context Dialogue Agents},
-  author    = {Zhou, Caishen and Tang, Yihong and Bai, Xuefeng and Chen, Kehai and Zhang, Min},
-  booktitle = {Advances in Neural Information Processing Systems},
+  author    = {Caishen Zhou and Yihong Tang and Xuefeng Bai and Kehai Chen and Min Zhang},
+  booktitle = {The Fortieth Annual Conference on Neural Information Processing Systems},
   year      = {2026},
-  note      = {Accepted to NeurIPS 2026}
+  url       = {https://openreview.net/forum?id=hqutYPsYtb}
 }
 ```
 

@@ -107,15 +107,15 @@ MSR also leads on Answer and Selection Accuracy in the **LoCoMo and QMSum source
 
 ## Citation
 
-If you use MSBench or MSR in your research, you may use the provisional citation below. We will update it after verifying the official bibliographic record.
+If you use MSBench or MSR in your research, please cite the paper using the OpenReview BibTeX below.
 
 ```bibtex
 @inproceedings{zhou2026know,
   title     = {Know Where You Stand: Memory-Source Choice in Long-Context Dialogue Agents},
-  author    = {Zhou, Caishen and Tang, Yihong and Bai, Xuefeng and Chen, Kehai and Zhang, Min},
-  booktitle = {Advances in Neural Information Processing Systems},
+  author    = {Caishen Zhou and Yihong Tang and Xuefeng Bai and Kehai Chen and Min Zhang},
+  booktitle = {The Fortieth Annual Conference on Neural Information Processing Systems},
   year      = {2026},
-  note      = {Accepted to NeurIPS 2026}
+  url       = {https://openreview.net/forum?id=hqutYPsYtb}
 }
 ```
 
